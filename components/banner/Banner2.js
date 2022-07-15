@@ -11,11 +11,11 @@ const Banner2 = () => {
         <Row className="">
           <Col lg="6" md="6" className="align-self-center">
             <h1 className="title">
-              Build stunning websites with NextJs UI Kit
+              Hamster Heroes of Draebanor
             </h1>
             <h4 className="subtitle font-light">
-              Free Reactstrap UI Kit with Lots of
-              <br /> Ready to Use Sections
+              They're Gonna Kick You
+              <br /> Right In the Tits
             </h4>
             <a
               href="https://wrappixel.com/templates/nextkit-nextjs-free-uikit"
