@@ -14,7 +14,7 @@ const Banner2 = () => {
               Hamster Heroes of Draebanor
             </h1>
             <h4 className="subtitle font-light">
-              They're Gonna Kick You
+              They are Gonna Kick You
               <br /> Right In the Tits
             </h4>
             <a
